@@ -534,7 +534,7 @@ id,department_name,unique_internal_identifier,first_name,last_name,middle_initia
 #532,"Rochester, NY Police Department",,MORGAN,LINTON,B,,F,BLACK,2020-06-02,1997
 #533,"Rochester, NY Police Department",IBM#2193,THOMAS,LISLE,J,,M,WHITE,2010-02-22,1983
 #534,"Rochester, NY Police Department",,TIMOTHY,LIST,M,,M,WHITE,1986-12-12,1964
-#535,"Rochester, NY Police Department",,,LIU,,,F,ASIAN,2019-03-18,1989
+#535,"Rochester, NY Police Department",,NA,LIU,,,F,ASIAN,2019-03-18,1989
 #536,"Rochester, NY Police Department",,BARBARA,LOCKE,D,,F,WHITE,1989-10-02,1959
 #537,"Rochester, NY Police Department",,RONALD,LODAR,J,,M,WHITE,2006-08-06,1954
 #538,"Rochester, NY Police Department",IBM#1883,DONALD,LODATO,A,,M,WHITE,2008-02-25,1985
