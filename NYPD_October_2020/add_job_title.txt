@@ -1,0 +1,19 @@
+flask add-job-title [department-id] "Police Officer" true 1
+flask add-job-title [department-id] "Detective Third Grade" true 2
+flask add-job-title [department-id] "Detective Second Grade" true 3
+flask add-job-title [department-id] "Detective First Grade" true 4
+flask add-job-title [department-id] "Detective Specialist" true 5
+flask add-job-title [department-id] "Sergeant" true 6
+flask add-job-title [department-id] "Lieutenant" true 7
+flask add-job-title [department-id] "Captain" true 8
+flask add-job-title [department-id] "Deputy Inspector" true 9
+flask add-job-title [department-id] "Inspector" true 10
+flask add-job-title [department-id] "Deputy Chief Inspector" true 11
+flask add-job-title [department-id] "Assistant Chief Inspector" true 12
+flask add-job-title [department-id] "Chief" true 13
+flask add-job-title [department-id] "Assistant Deputy Commissioner" true 14
+flask add-job-title [department-id] "Deputy Commissioner" true 15
+flask add-job-title [department-id] "Assistant Commissioner" true 16
+flask add-job-title [department-id] "First Deputy Commissioner" true 17
+flask add-job-title [department-id] "Commissioner" true 18
+
