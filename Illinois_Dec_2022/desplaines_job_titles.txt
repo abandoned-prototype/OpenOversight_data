@@ -1,0 +1,10 @@
+flask add-job-title [department_id] "Patrol Officer" true 1
+flask add-job-title [department_id] "Sergeant" true 2
+flask add-job-title [department_id] "Detective" true 3
+flask add-job-title [department_id] "Commander" true 4
+flask add-job-title [department_id] "School Liaison Officer" true 5
+flask add-job-title [department_id] "Deputy Chief" true 6
+flask add-job-title [department_id] "Police Chief" true 7
+flask add-job-title [department_id] "Traffic Unit Officer" true 8
+flask add-job-title [department_id] "Police Services Manager" true 9
+flask add-job-title [department_id] "Truck Enforcement Officer" true 10

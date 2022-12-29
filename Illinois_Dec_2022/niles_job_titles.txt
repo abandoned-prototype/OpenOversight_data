@@ -1,0 +1,5 @@
+flask add-job-title [department_id] "Officer" true 1
+flask add-job-title [department_id] "Sergeant" true 2
+flask add-job-title [department_id] "Commander" true 3
+flask add-job-title [department_id] "Deputy Chief" true 4
+flask add-job-title [department_id] "Chief" true 5

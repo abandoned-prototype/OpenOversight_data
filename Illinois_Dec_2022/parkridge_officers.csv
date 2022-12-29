@@ -1,0 +1,54 @@
+id,last_name,first_name,middle_initial,suffix,race,gender,employment_date,unique_internal_identifier,department_name
+#0,Alduino,Amanda Rose,,,WHITE,F,2021-09-01,aalduino@parkridgepolice.org,Park Ridge Police Department
+#1,Anderson,John, C,,WHITE,M,2001-07-09,janderson@parkridgepolice.org,Park Ridge Police Department
+#2,Boduch,Eryk, L,,WHITE,,2021-11-01,eboduch@parkridgepolice.org,Park Ridge Police Department
+#3,Brown,Ryan, G,,WHITE,M,2018-08-28,rbrown@parkridgepolice.org,Park Ridge Police Department
+#4,Cacioppo,David, M,,WHITE,M,2001-07-09,dcacioppo@parkridgepolice.org,Park Ridge Police Department
+#5,Costescu,Ioan, C,,WHITE,M,2022-03-24,icostescu@parkridgepolice.org,Park Ridge Police Department
+#6,Czworniak,Elle,,,WHITE,F,2017-09-15,eczworniak@parkridgepolice.org,Park Ridge Police Department
+#7,Delfosse,Jean, P,,WHITE,M,1999-09-13,jdelfosse@parkridgepolice.org,Park Ridge Police Department
+#8,Dorsey,Sean, P,,WHITE,M,2009-01-05,sdorsey@parkridgepolice.org,Park Ridge Police Department
+#9,Doucet,Jason, J,,WHITE,M,2002-07-08,jdoucet@parkridgepolice.org,Park Ridge Police Department
+#10,Dziubla,Tyler,,,,M,2020-07-24,tdziubla@parkridgepolice.org,Park Ridge Police Department
+#11,Farley,Frederick,,,WHITE,M,2019-04-23,dfarley@parkridgepolice.org,Park Ridge Police Department
+#12,Faso,Mario, A,,WHITE,M,2003-04-07,mfaso@parkridgepolice.org,Park Ridge Police Department
+#13,Fejzic,Mevludin,,,WHITE,M,2022-04-27,mfejzic@parkridgepolice.org,Park Ridge Police Department
+#14,Fitzgerald,Michael,,,WHITE,M,2018-06-21,mfitzgerald@parkridgepolice.org,Park Ridge Police Department
+#15,Garcia,Leonardo,,,,M,2000-01-03,lgarcia@parkridgepolice.org,Park Ridge Police Department
+#16,Genualdi,Julie Ann,,,WHITE,F,1998-09-08,jgenualdi@parkridgepolice.org,Park Ridge Police Department
+#17,Hahn,Ruth, M,,WHITE,F,2006-01-09,rhahn@parkridgepolice.org,Park Ridge Police Department
+#18,Hilderbrant,Eric, S,,WHITE,M,1997-10-06,ehilderbrant@parkridgepolice.org,Park Ridge Police Department
+#19,Juarez,Ana,,,,F,2014-01-03,ajuarez@parkridgepolice.org,Park Ridge Police Department
+#20,Kadzielawa,Angelina, K,,WHITE,F,2020-01-21,akadzielawa@parkridgepolice.org,Park Ridge Police Department
+#21,Kaminski,Frank,,,WHITE,M,2009-07-06,fkaminski@parkridge.us,Park Ridge Police Department
+#22,Kearns,Daniel, J,,WHITE,M,2008-06-02,dkearns@parkridgepolice.org,Park Ridge Police Department
+#23,King,Kenneth,,,WHITE,M,2003-04-07,kking@parkridgepolice.org,Park Ridge Police Department
+#24,Koller,Jeffrey,,,WHITE,M,2004-01-05,jkoller@parkridgepolice.org,Park Ridge Police Department
+#25,Lafrancis,David, P,,WHITE,M,2005-01-10,dlafrancis@parkridgepolice.org,Park Ridge Police Department
+#26,Lauria,Frank, T,,WHITE,M,2005-01-10,flauria@parkridgepolice.org,Park Ridge Police Department
+#27,Ledford,Steven Craig,,,WHITE,M,2021-06-18,sledford@parkridgepolice.org,Park Ridge Police Department
+#28,Luehr,Michael, D,,WHITE,M,1999-09-13,mluehr@parkridgepolice.org,Park Ridge Police Department
+#29,Lynch,Gary,,,WHITE,M,2018-12-21,glynch@parkridgepolice.org,Park Ridge Police Department
+#30,Marczyk,Bart,,,WHITE,M,2014-04-14,bmarczyk@parkridgepolice.org,Park Ridge Police Department
+#31,McEwen,Timothy,,,WHITE,M,2004-05-10,tmcewen@parkridgepolice.org,Park Ridge Police Department
+#32,McGannon,Matthew,,,WHITE,M,2002-05-06,mmcganno@parkridgepolice.org,Park Ridge Police Department
+#33,Moehrlin,Jon, P,,WHITE,M,2000-09-11,jmoehrlin@parkridgepolice.org,Park Ridge Police Department
+#34,Moravet,Andrei,,,WHITE,M,2015-01-05,amoravet@parkridgepolice.org,Park Ridge Police Department
+#35,Noffz,Raymond,,,WHITE,M,2019-09-09,rnoffz@parkridgepolice.org,Park Ridge Police Department
+#36,Orta,Gregory,,,WHITE,M,1997-10-06,gorta@parkridgepolice.org,Park Ridge Police Department
+#37,Panizo,Juan, C,,,M,2006-08-28,cpanizo@parkridgepolice.org,Park Ridge Police Department
+#38,Pavone,Francesco, J,,WHITE,M,2018-03-29,fpavone@parkridgepolice.org,Park Ridge Police Department
+#39,Pearson,Scott, W,,WHITE,M,2018-06-21,spearson@parkridgepolice.org,Park Ridge Police Department
+#40,Peterson,Benjamin,,,WHITE,M,2002-06-15,bpeterson@parkridgepolice.org,Park Ridge Police Department
+#41,Raitano,Anthony, R,,WHITE,M,1996-09-30,araitano@parkridgepolice.org,Park Ridge Police Department
+#42,Rechlicz,Thomas, B,,WHITE,M,1999-05-04,trechlicz@parkridgepolice.org,Park Ridge Police Department
+#43,Robert,Remoh, R,,BLACK,M,2007-04-09,rremoh@parkridgepolice.org,Park Ridge Police Department
+#44,Ryan,Kevin, P,,WHITE,M,1998-09-08,kryan@parkridgepolice.org,Park Ridge Police Department
+#45,Snieg,Peter, L,,WHITE,M,2021-05-24,psneig@parkridgepolice.org,Park Ridge Police Department
+#46,Stephens,Mitchell,,,WHITE,M,2015-12-30,mstephens@parkridgepolice.org,Park Ridge Police Department
+#47,Stopka,Steven,,,WHITE,M,2004-05-10,sstopka@parkridgepolice.org,Park Ridge Police Department
+#48,Sweeney,Michael,,,,M,2021-02-15,msweeney@parkridgepolice.org,Park Ridge Police Department
+#49,Szwejkowski,Artur,,,WHITE,M,2019-10-14,aszwejkowksi@parkridgepolice.org,Park Ridge Police Department
+#50,Taylor,Emery, E,,WHITE,M,2018-01-05,etaylor@parkridgepolice.org,Park Ridge Police Department
+#51,Tello,Marco Antonio,,,,M,2021-10-04,mtello@parkridgepolice.org,Park Ridge Police Department
+#52,Ware,Eugene, A, Jr,BLACK,M,2000-03-20,eware@parkridgepolice.org,Park Ridge Police Department
